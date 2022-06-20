@@ -1,0 +1,20 @@
+h1 {
+text-align: center;
+color: blue;
+}
+.ty{
+    color: brown;
+}
+.su{
+    color: crimson;
+    border: 50px;
+    border-radius: 100px;
+    background-color: orchid
+}
+a {
+    color: darkblue;
+}
+body {
+    text-align: center;
+    background-color: black;
+}
